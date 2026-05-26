@@ -1,0 +1,10 @@
+.calculator {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 400px;
+  margin: auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  box-sizing: border-box;
+}
