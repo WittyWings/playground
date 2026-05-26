@@ -1,0 +1,15 @@
+.display {
+  background: #222;
+  color: #0f0;
+  font-family: monospace;
+  padding: 10px;
+  text-align: right;
+  margin-bottom: 10px;
+}
+.input {
+  font-size: 1.2rem;
+}
+.result {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
